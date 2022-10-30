@@ -12,3 +12,7 @@ ul {
     border: purple dotted 2px;
     display: inline-block;
 }
+
+p {
+    color: navy;
+}
